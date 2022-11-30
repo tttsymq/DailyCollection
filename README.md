@@ -1,1 +1,1 @@
-# DailyCollection
+# 日常收集
